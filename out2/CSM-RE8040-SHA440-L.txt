@@ -1,0 +1,107 @@
+RE8040-SHA440
+High productivity RO element with extended area for seawater and high salinity well water
+SPECIFICATIONS:
+General Permeate flow rate: 8,250 GPD (31.2 m3/day)
+Features
+Nominal salt rejection: 99.75%
+Effective membrane area: 440 ft2 (40.9 m2)
+1. The stated product performance is based on data taken after 30 minutes of operation at the following
+test conditions:
+• 32,000 mg/L NaCl solution at 800 psig (5.5 MPa) applied pressure
+• 8% recovery
+• 77 oF (25 oC)
+• pH 6.5–7.0
+2. Boron rejection is 92.0% at pH 8.0 and 5 mg/L boron feed with the same test conditions as above.
+3. Minimum salt rejection is 99.6%.
+4. Permeate flow rate for each element may vary but will be no more than 15%.
+5. All elements are vacuum sealed in a polyethylene bag containing 1.0% SBS (sodium bisulfite) solution
+and individually packaged in a cardboard box..
+Membrane type: Thin-Film Composite
+Membrane material: Polyamide (PA)
+Element configuration: Spiral-Wound, FRP Wrapping
+Dimensions
+Part Number
+and
+Weight Model Name A B C Weight Inter-
+Brine Seal
+connector
+40.0 inch 8.0inch 1.12 inch
+RE8040-SHA440 15 kg 40000308 40000309
+(1,016 mm) (201 mm) (28 mm)
+1. Each membrane element supplied with one brine seal, one interconnector (coupler) and four o-rings.
+2. All RE8040 elements fit nominal 8.0 inch (201 mm) I.D. pressure vessels.
+The information provided in this document is solely for informative purposes. It is the user’s responsibility to ensure
+the appropriate usage of this product. Toray Chemical Korea Inc. assumes no obligation, liability or damages incurred
+for the misuse of the product or for the information provided in this document. This document does not express or
+implies any warranty as to the merchantability or fitness of the product.
+LenLnetnecnhtech
+ininffoo@@lelennntnetcehc.cho.mco mTe l . T+e3l1.+-13512-1-65120--691000-900
+wwwwww..lelennnntetcehc.cho.mco mFa x F. +a3x1.+-13512-1-65126--621869-289
+RE8040-SHA440
+High productivity RO element with extended area for seawater and high salinity well water
+APPLICATION DATA:
+Operating Limits · Max. Pressure Drop / Element 15 psi (0.1 MPa)
+· Max. Pressure Drop / 240” Vessel 60 psi (0.41 Mpa)
+· Max. Operating Pressure 1,200 psi (8.27 MPa)
+· Max. Feed Flow Rate 75 gpm (17.0 m3/hr)
+· Min. Concentrate Flow Rate 16 gpm (3.6 m3/hr)
+· Max. Operating Temperature 113 oF (45 oC)
+· Operating pH Range 2.0–11.0
+· CIP pH Range 1.0–13.0
+· Max. Turbidity 1.0 NTU
+· Max. SDI (15 min) 5.0
+· Max. Chlorine Concentration < 0.1 mg/L
+Design Guidelines for Various · Wastewater Conventional (SDI < 5) 8–12 gfd
+Water Sources · Wastewater Pretreated by UF/MF (SDI < 3) 10–14 gfd
+· Seawater, Open Intake (SDI < 5) 7–10 gfd
+· Seawater, Beach Well (SDI < 3) 8–12 gfd
+· Surface Water (SDI < 5) 12–16 gfd
+· Surface Water (SDI < 3) 13–17 gfd
+· Well water (SDI < 3) 13–17 gfd
+· RO permeate (SDI < 1) 21–30 gfd
+S (Uat su inr ga t Aio nn
+t
+iL scim alait ns
+t s )†
+·
+·
+L Sta in ffg ali ne dr S Da at vu ir sa Sti ao tn
+u
+rI an td ioex
+n
+I( nL dS eI)
+x (SDSI)
+< <+ +1 0. .5
+5
+· CaSO4 230% saturation
+· SrSO4 800% saturation
+· BaSO4 6,000% saturation
+· SiO2 100% saturation
+†The above saturation limits are typically accepted by proprietary antiscalant
+manufacturers. It is the user’s responsibility to ensure proper chemical(s) and
+concentration are dosed ahead of the membrane system to prevent scale
+formation anywhere within the membrane system. Membrane elements fouled
+or damaged due to scale formation are not covered by the limited warranty.
+GENERAL HANDLING PROCEDURES
+(cid:122) Elements contained in the boxes must be kept dry at (cid:122) Avoid excessive pressure and flow spikes.
+room temperature (7–32°C; 40–95°F) and should not be
+stored in direct sunlight. If the polyethylene bag is (cid:122) Only use chemicals compatible with the membrane
+elements and components. Use of such chemicals may
+damaged, a new preservative solution (sodium bisulfite)
+void the element limited warranty.
+must be added and air-tight sealed to prevent drying and
+biological growth. (cid:122) Permeate pressure must always be equal or less than the
+feed/concentrate pressure. Damage caused by permeate
+(cid:122) Permeate from the first hour of operation should be back pressure voids the element limited warranty.
+discarded to flush out the preservative solution.
+(cid:122) Elements should be immersed in a preservative solution
+during storage, shipping and system shutdowns to prevent
+biological growth and freezing. The standard storage
+solution contains 1% by weight sodium bisulfite or sodium
+metabisulfite (food grade). For short term storage (i.e.
+one week or less) 1% by weight sodium metabisulfite
+solution is adequate for preventing biological growth.
+(cid:122) Keep elements moist at all times after initial wetting.
+LenLnetnecnhtech
+ininffoo@@lelennntnetcehc.cho.mco mTe l . T+e3l1.+-13512-1-65120--691000-900
+wwwwww..lelennnntetcehc.cho.mco mFa x F. +a3x1.+-13512-1-65126--621869-289

@@ -1,0 +1,147 @@
+CSM RO MEMBRANE, The approved Reverse Osmosis Membrane in the world.
+RE8040-FEn
+High productive new fouling resistant RO membrane element with extended are for brackish water and waste water reuse
+Product Permeate Flow rate : 10,500 GPD (39.7 m3/day)
+Specifications
+Stabilized Salt Rejection : 99.7 %
+Effective Membrane Area : 400 ft2 (37.2 m2)
+1. The stated performance is initial data taken after 30 minutes of operation based on the following conditions;
+2,000 mg/L NaCl solution at 225 psig (1.5 MPa) applied pressure, 15 % recovery, 77 oF (25 oC) and pH 6.5~7.0.
+2. Minimum salt rejection is 99.4%.
+3. Permeate Flow rate for individual elements may vary but will be no more than 10 below the value shown.
+4. Effective membrane area may vary within 3 %.
+5. All elements are vacuum sealed in a polyethylene bag containing 1.0 % SBS (Sodium bisulfite) solution and packaged individually
+in a cardboard box.
+Product Membrane Type : Thin-film Composite
+Description
+Membrane Material : PA (Polyamide)
+Membrane Surface Charge : Close to Neutral
+Element Configuration : Spiral-Wound, FRP wrapping
+Product A = 40 inch (1,016 mm)
+Dimensions
+B = 16 inch (400 mm)
+B = 1.12 inch (28 mm)
+1. One interconnector (coupler) would be supplied for each membrane element.
+2. All CSM membrane elements fit nominal 8.0-inch (203 mm) I.D. pressure vessel.
+3. Outer feature may vary as design revisions take place.
+Features
+(cid:122)
+CSM FEn element provides an excellent way to treat a feed water having relatively high fouling
+potential due to the remaining colloidal, biological and organic fouling agents even after controlled
+pretreatment.
+(cid:122)
+CSM FEn element has a high durability against CIP chemicals to sustain fouling resistant performance
+even after periodic CIP in a long term operation
+LenLnetnecnhtech
+ininffoo@@lelennntnetcehc.cho.mco mTe l . T+e3l1.+-13512-1-65120--691000-900
+wwwwww..lelennnntetcehc.cho.mco mFa x F. +a3x1.+-13512-1-65126--621869-289
+Fouling Resistance Characteristics
+Performance Tendency on the zero discharge system
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1 8 15 22 29 36
+Operating Time(day)
+)rh/3m(
+etar
+wolF
+etaemreP
+dezilamroN
+Application Data
+Operating Limits
+Max. Pressure drop / Element 15 psi (0.1 MPa) (cid:122)
+Max. Pressure drop / 240” vessel 60 psi (0.42 Mpa) (cid:122)
+Max. Operating pressure 600 psi (4.14 MPa)
+(cid:122)
+Max. Feed flow rate 252 gpm (57.2 m3/hr) (Only New FRM) (cid:122)
+A 12rr :a 5y :2 m →o d 1if 2ic :6a :t 2ion (cid:122) Min. Concentrate flow rate 64 gpm (14.5 m3/hr)
+Max. Operating temperature 113 oF (45 oC)
+(cid:122)
+RE8040-BE (Regular) Operating pH range 3.0 ~ 10.0
+RE8040-FE (FRM) (cid:122)
+RE8040-FE2 (New FRM) CIP pH range 2.0 ~ 11.0
+(cid:122)
+Max. Turbidity 1.0 NTU
+(cid:122)
+Fouling resistance characteristics of regular, FRM, and new (cid:122) Max. SDI (15 min) 5.0
+FRM membranes tested under conditions of zero liquid (cid:122) Chlorine concentration < 0.1 mg/L
+discharge system. CSM New FRM maintains nearly the initial
+flux over 30 days, while FRM loses 30 % initial flux and the
+regular membrane loses 70 % of the initial flux. Design Guideline for Various Water Source
+Waste water (SDI < 5) 8 ~ 12 gfd
+(cid:122)
+Conditions for Handling CSM in general Waste water pretreated by UF (SDI < 3) 10 ~ 14 gfd
+(cid:122)
+(cid:122) Customers must keep the element boxes dry at room (cid:122) Seawater, open intake (SDI < 5) 7 ~ 10 gfd
+temperature to prevent them from freezing and damages High salinity well water (SDI < 3) 8 ~ 12 gfd
+(cid:122)
+from heat. If the polyethylene bag is broken, a new
+Surface water (SDI < 5) 12 ~ 16 gfd
+(cid:122)
+protective solution has to be added to the RO membrane
+Surface water (SDI < 3) 13 ~ 17 gfd
+(cid:122)
+element and the element has to be repackaged air-tight to
+Well water (SDI < 3) 13 ~ 17 gfd
+prevent from biological growth. (cid:122)
+RO/UF permeate (SDI < 1) 21 ~ 30 gfd
+Keep elements moist at all times after initial wetting (cid:122)
+(cid:122)
+Permeate water obtained from first hour of operation should
+(cid:122)
+be discarded in order to flush the protective solution in the
+Saturation Limits for Salts
+elements.
+(cid:122) CSM elements should be immersed in a protective solution (cid:122) CaSO4 230 % saturation
+during storage, shipping or system shutdowns to prevent
+(cid:122)
+SrSO4 800 % saturation
+biological growth and freeze damage. The standard storage
+(cid:122)
+BaSO4 6,000 % saturation
+solution contains one (1) weight percent sodium bisulfite or
+(cid:122)
+SiO2 100 % saturation
+sodium metabisulfite (food grade). For short term storage of
+Above values are saturation limit at the tail end of the membrane elements
+one week, one (1) weight percent sodium metabisulfite for each sparingly soluble salts with proper scale inhibitor.
+solution is adequate for inhibiting biological growth.
+The customer is fully responsible for the effects of
+(cid:122)
+incompatible chemicals on elements. Their use will void the CaCO Scaling potential limits as LSI or SDSI
+3
+element limited warranty.
+Without scale inhibitor < -0.2
+(cid:122)
+The Stabilization of salt rejection
+LSI (SDSI) with SHMP < +0.5
+(cid:122)
+Characteristics LSI (SDSI) with special inhibitor1 < +1.5
+(cid:122)
+(cid:122)
+SDSI with any inhibitor < +0.5
+100.0 1. Special inhibitor means one of approved organic inhibitors. It should
+Wet Element be approved from real plant for more than three years.
+99.5
+99.0 Dry Element
+98.5
+98.0
+97.5
+97.0
+0 5 10 15 20 25 30 35 40 45 50
+1. CSM RO elements could be supplied either wet or dry state.
+2. The stabilization of system rejection largely depends on the feed
+water conditions and operating parameters
+)%(
+noitcejeR
+tlaS
+LenLnetnecnhtech
+Time (hr)
+ininffoo@@lelennntnetcehc.cho.mco mTe l . T+e3l1.+-13512-1-65120--691000-900
+wwwwww..lelennnntetcehc.cho.mco mFa x F. +a3x1.+-13512-1-65126--621869-289

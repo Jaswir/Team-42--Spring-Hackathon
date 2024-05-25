@@ -24,7 +24,7 @@ def extract_text_and_tables(pdf_path):
 
     return text_content, tables_content
 paths = []
-dir = "C:/Users/deepa/Downloads/Vectara_Sample/"
+dir = r"C:\Users\Jaswir\Desktop\AA Spring Hackathon\Vectara_Big_CMS\\"
 for file in os.listdir(dir):
     paths.append([dir,file])
 # Specify the path to your PDF file
@@ -36,7 +36,7 @@ for path in paths:
     text_content, tables_content = extract_text_and_tables(pdf_path)
 
 
-    with open('out/'+path[1].rstrip('.pdf')+'.txt', 'w',encoding='utf8') as f:
+    with open('out2/'+path[1].rstrip('.pdf')+'.txt', 'w',encoding='utf8') as f:
         for page_text in text_content:
             f.write(page_text)
             f.write('\n')

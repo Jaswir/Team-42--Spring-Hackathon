@@ -1,0 +1,58 @@
+RE8040-FLR
+F o u ling resistant RO element with low pressure for brackish water and wastewater reuse
+ Fouling resistant
+ Low Energy Consumption
+ High Permeate Flow and High Rejection
+Industrial Municipal Water Reuse
+SPECIFICATIONS
+General Features
+Permeate Flow Rate 10,000 GPD (37.9 m3 /day)
+Nominal Salt Rejection 99.6% (Minimum 99.5%)
+Effective Membrane Area 400 ft2 (37.2 m2 )
+Membrane Type Thin-Film Composite
+Membrane Material Polyamide (PA)
+Element Configuration Spiral-Wound, FRP Wrapping
+Test Conditions: 1,500 mg/L NaCl solution at 150 psig (1.03 MPa) applied pressure; 15% recovery; 77℉(25℃);
+pH 6.5–7.0; Permeate flow rate for each element may vary but will be no more than -5%.
+Dimensions and Weight
+Part Number
+Model Name A B C Weight
+Inter-Connector Brine Seal
+40.0 inch 7.9 inch 1.12 inch
+RE8040-FLR 15kg SWA01049 SWA01043
+(1,016 mm) (200 mm) (28.5 mm)
+1. Each membrane element supplied with one interconnector (coupler) and four O-rings.
+2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels.
+RE8040-FLR
+F ouling resistant RO element with low pressure for brackish water and wastewater reuse
+APPLICATION DATA
+Operating Limits
+Max. Pressure Drop / Element 15 psi (0.10 MPa)
+Max. Pressure Drop / 240” Vessel 60 psi (0.41 MPa)
+Max. Operating Pressure 600 psi (4.14 MPa)
+Max. Feed Flow Rate 75 gpm (17.0 m3/hr)
+Min. Concentrate Flow Rate 16 gpm (3.6 m3/hr)
+Max. Operating Temperature 113oF (45oC)
+Operating pH Range 2.0 – 11.0
+CIP pH Range 1.0 – 13.0
+Max. Turbidity 1.0 NTU
+Max. SDI (15 min) 5.0
+Max. Chlorine Concentration < 0.1 mg/L
+G ENERAL HANDLING PROCEDURES
+ Elements contained in the boxes must be kept dry  Keep elements moist at all times after initial wetting.
+at room temperature (7–32°C; 40–95°F) and should
+not be stored in direct sunlight.  Avoid excessive pressure and flow spikes.
+ For WET-TYPE, the preservative solution (1%  Only use chemicals compatible with the membrane
+sodium metabisulfite solution) is added to prohibit elements and components. Use of such chemicals
+the growth of micro-organisms. may void the element limited warranty.
+ Permeate from the first hour of operation should  Permeate pressure must always be equal or less than
+be discarded. the feed/concentrate pressure. Damage caused by
+permeate back pressure voids the element limited
+ Stabilized salt rejection is generally achieved within warranty.
+1~48 hours of continuous use.
+ The element shell is FRP(Fiber Reinforced Plastic). Be
+aware of glass fiber strands and use safety equipment.
+Certified to
+NSF/ANSI/CAN 61
+info@lenntech.com Tel. +31-152-610-900
+www.lenntech.com Fax. +31-152-616-289

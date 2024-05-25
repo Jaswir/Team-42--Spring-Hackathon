@@ -1,0 +1,62 @@
+Lenntech
+RE 1812 -CE60
+info@lenntech.c om Tel. +31-152-610-900
+Innovative chlorine resistant RO element for residential use www.lenntech.com Fax. +31-152-616-289
+SPECIFICATIONS :
+General
+Features Model Name Permeate Flow Rate GPD (L/day) Salt Rejection %
+RE1812 -CE 60 60 (227) 98%
+1. The stated product performance is based on data taken after 30 minutes of operation at the following
+test conditions:
+• 200 mg/L NaCl solution at 60 psig (0.41 MPa) applied pressure
+• 15% recovery
+• 77 oF (25 oC)
+• pH 6.5 –7.0
+2. Permeate flow rate for each element may vary but will be no more t5h%an. 1
+3. Dry elements are packaged in a polyethylene bag
+¤ Wet elements are packaged in a polyethylene bag containing SB(4g/L) + HCl(0.51g/L) solution.
+Membrane type: Thin-Film Composite
+Membrane material: Polyamide (PA)
+Element configuration: Spiral-Wound, Tape Wrapping
+Dimensions
+Model Name A B C D E
+0.67 0.87 11.73 0.98 1.77
+RE1812 -CE6 0
+(17mm) (22mm) (298mm) (25mm) (45mm)
+*All measurement are in inches
+RE1812 -CE60
+Innovative chlorine resistant RO element for resi dential use
+APPLICATION DATA :
+Operating Limits · Max. Operating Pressure 125 psi (0.86 MPa)
+· Max. Feed Flow Rate 2 gpm (0.45 m3/hr)
+· Max. OperatingT emperature 113 oF (45 oC)
+· Operating pH Range 2.0–11.0
+· Max. Turbidity 1.0 NTU
+· Max. SDI (15 min) 5.0
+· Max. Chlorine Concentration < 0.1 mg/L
+The information provided in this document is solely for informative purposes. It is the user’s responsibility to ensure the papropriate
+usage of this product. Woongjin Chemical assumes no obligationli,a bility or damages incurred for the misuse of the product or for the
+information provided in this documen tT.his document does not express or implies any warranty as to the merchantability or fitness
+of the products.
+GENERAL HANDLING PROCEDURES
+(cid:31) Elements contained in the boxes must be kept dry at (cid:31) Keep elements moist at all times after initial wetting .
+room temperature (7–32°C; 40–95°F) and should not be
+stored in direct sunlight. If the polyethylene bag is (cid:31) Only use chemicals compatible with the membrane
+elements and components. Use of such chemicals may
+damaged, a new preservative solution (sodium bisulfite)
+void the element limited warranty.
+must be added and ai-rtight sealed to prevent drying and
+biological growth . (cid:31) Permeate pressure must always be equal or less than the
+feed/concentrate pressure. Damage caused by permeate
+(cid:31) Permeate from the first hour of operation should be back pressure voids the element limited warranty .
+discarded to flush out the preservative solution .
+(cid:31) Elements should be immersed in a preservative solution
+during storage, shipping and system shutdowns to prevent
+biological growth and freezing. The standard storage
+solution contains 1% by weight sodium bisulfite or sodium
+metabisulfite (food grade). For short term storage (i.e.
+one week or less) 1% by weight sodium metabisulfite
+solution is adequate for preventing biologicalr gowth.
+Lenntech
+info@lenntech.com Tel. +31-152-610-900
+www.lenntech.com Fax. +31-152-616-289
