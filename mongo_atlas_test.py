@@ -26,20 +26,79 @@ def generate_embedding(text: str) -> list[float]:
 
     return response.json()
 
+def query_atlas(query: str):
+
+    results = collection.aggregate(
+        [
+            {
+                "$vectorSearch": {
+                    "queryVector": generate_embedding(query),
+                    "path": "plot_embedding_hf",
+                    "numCandidates": 100,
+                    "limit": 4,
+                    "index": "PlotSemanticSearch",
+                }
+            }
+        ]
+    )
+    return results
+
 
 client = pymongo.MongoClient(MONGO_URI)
-db = client.sample_mflix
-collection = db.movies
+db = client["spring"]
+collection = db["records"]
 
-#Creates embeddings for first 50 documents
-for doc in collection.find({"plot": {"$exists": True}}).limit(50):
-    doc["plot_embedding_hf"] = generate_embedding(doc["plot"])
-    collection.replace_one({"_id": doc["_id"]}, doc)
 
-print(generate_embedding("MongoDB is awesome"))
 
-query = "imaginary characters from outer space at war"
+def getDocsFromTxts():
+    # Converts Txt docs into array of strings:# Directory containing the text files
+    directory = "out"
 
+    # Initialize an empty list to store the strings
+    pdf_texts = []
+    titles = []
+
+    # Iterate through the files in the directory
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        with open(file_path, "r", encoding="utf8") as file:
+            file_content = file.read()
+            pdf_texts.append(file_content)
+            titles.append(filename)
+
+    # Adds texts + embeddings
+    for text,title in zip(pdf_texts,titles):
+        new_entry = {"text": text, "title": title, "plot_embedding_hf": generate_embedding(text)}
+        collection.insert_one(new_entry)
+        # print(text + "\n")
+
+
+
+
+
+
+# new_entry = {"text": "12,000 GDP", "title": "BE500", "plot_embedding_hf": generate_embedding("12,000 GDP")}
+# collection.insert_one(new_entry)
+
+# new_entry = {"text": "some text here", "title": 'BE440', "plot_embedding_hf": generate_embedding("some text here")}
+# collection.insert_one(new_entry)
+
+
+  
+
+# collection.delete_many({})
+# getDocsFromTxts()
+
+# query = "45.4 m3/day production:"
+
+query = """
+- 45.4 m3/day production:
+- 99.5%% salt rejection
+- maximum operating pressure of 600 psi
+- 8-inch diameter
+- pH range of 2-11
+"""
+print("Query: ", query)
 results = collection.aggregate(
     [
         {
@@ -47,12 +106,14 @@ results = collection.aggregate(
                 "queryVector": generate_embedding(query),
                 "path": "plot_embedding_hf",
                 "numCandidates": 100,
-                "limit": 4,
-                "index": "PlotSemanticSearch",
+                "limit": 2,
+                "index": "vector_index",
             }
         }
     ]
 )
 
+
 for document in results:
-    print(f'Movie Name: {document["title"]},\nMovie Plot: {document["plot"]}\n')
+    print("Document title: " , document.get("title"))
+    # print("Document text: " , document.get("text"))
