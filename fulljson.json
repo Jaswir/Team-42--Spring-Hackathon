@@ -1,0 +1,197 @@
+{'pages': [
+        {'page': 1, 'text': 'RE8040-BE                                         LENNTEcH                                     CSM\n High productivity RO element for brackish water\n\n\n   \uf09f High Permeate Flow and High Rejection\n\n\n                                                                                          Industrial      Municipal\nSPECIFICATIONS\n   General Features\n\n\n   Permeate Flow Rate                                        11,
+            000 GPD (41.6 m        3/day)\n\n\n   Nominal Salt Rejection                                    99.7% (Minimum 99.5%)\n\n\n   Effective Membrane Area                                   400 ft  2(37.2 m   2)\n\n\n   Membrane Type                                             Thin-Film Composite\n\n\n   Membrane Material                                         Polyamide (PA)\n\n\n   Element Configuration                                     Spiral-Wound, FRP Wrapping\n\n\n   Test Conditions: 2,
+            000 mg/L NaCl solution at 225 psig (1.55 MPa) applied pressure; 15% recovery; 77℉(25℃);\n   pH 6.5–7.0; Permeate flow rate for each element may vary +25 / -15%.\n\n\n   Dimensions and Weight                                                                      Part Number\n      Model Name                A               B              C         Weight      Inter-Connector      Brine Seal\n       RE8040-BE            40.0 inch       7.9 inch       1.12 inch      15kg           SWA01049         SWA01043\n                           (1,
+            016 mm)      (200 mm)        (28.5 mm)\n                       U-cup seal\n                       (Brine seal)\n                                                  CSM                                                   Permeate\n       Feed                                                                                          Concentrate\n                       1. Each membrane element supplied with one interconnector (coupler) and four O-rings.\n                       2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels.', 'md': '# RE8040-BE LENNTEcH CSM\n\nHigh productivity RO element for brackish water\n\n|Specifications|Industrial|Municipal|\n|---|---|---|\n|General Features| | |\n|Permeate Flow Rate|11,
+            000 GPD (41.6 m^3/day)| |\n|Nominal Salt Rejection|99.7% (Minimum 99.5%)| |\n|Effective Membrane Area|400 ft^2 (37.2 m^2)| |\n|Membrane Type|Thin-Film Composite| |\n|Membrane Material|Polyamide (PA)| |\n|Element Configuration|Spiral-Wound, FRP Wrapping| |\n|Test Conditions|2,
+            000 mg/L NaCl solution at 225 psig (1.55 MPa) applied pressure; 15% recovery; 77°F (25°C); pH 6.5–7.0; Permeate flow rate for each element may vary +25 / -15%.| |\n\n|Dimensions and Weight|Part Number|\n|---|---|\n|Model Name|RE8040-BE|\n|A|40.0 inch (1,
+            016 mm)|\n|B|7.9 inch (200 mm)|\n|C|1.12 inch (28.5 mm)|\n|Weight|15kg|\n|Inter-Connector|SWA01049|\n|Brine Seal|SWA01043|\n| |U-cup seal (Brine seal)|\n|Feed| |\n| |1. Each membrane element supplied with one interconnector (coupler) and four O-rings.|\n| |2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels.|\n| |CSM Permeate Concentrate|', 'images': [
+                {'name': 'img_p0_1.png', 'height': 335, 'width': 903
+                },
+                {'name': 'img_p0_2.png', 'height': 56, 'width': 312
+                },
+                {'name': 'img_p0_3.png', 'height': 95, 'width': 78
+                },
+                {'name': 'img_p0_7.png', 'height': 95, 'width': 101
+                },
+                {'name': 'img_p0_8.png', 'height': 20, 'width': 134
+                },
+                {'name': 'img_p0_9.png', 'height': 81, 'width': 103
+                },
+                {'name': 'img_p0_10.png', 'height': 20, 'width': 133
+                },
+                {'name': 'img_p0_11.png', 'height': 116, 'width': 313
+                },
+                {'name': 'img_p0_12.png', 'height': 73, 'width': 208
+                }
+            ], 
+            'items': [
+                {'type': 'heading', 'lvl': 1, 'value': 'RE8040-BE LENNTEcH CSM', 'md': '# RE8040-BE LENNTEcH CSM'
+                },
+                {'type': 'text', 'value': 'High productivity RO element for brackish water', 'md': 'High productivity RO element for brackish water'
+                },
+                {'type': 'table', 'rows': [
+                        ['Specifications', 'Industrial', 'Municipal'
+                        ],
+                        ['General Features', '', ''
+                        ],
+                        ['Permeate Flow Rate', '11,
+                            000 GPD (41.6 m^3/day)', ''
+                        ],
+                        ['Nominal Salt Rejection', '99.7% (Minimum 99.5%)', ''
+                        ],
+                        ['Effective Membrane Area', '400 ft^2 (37.2 m^2)', ''
+                        ],
+                        ['Membrane Type', 'Thin-Film Composite', ''
+                        ],
+                        ['Membrane Material', 'Polyamide (PA)', ''
+                        ],
+                        ['Element Configuration', 'Spiral-Wound, FRP Wrapping', ''
+                        ],
+                        ['Test Conditions', '2,
+                            000 mg/L NaCl solution at 225 psig (1.55 MPa) applied pressure; 15% recovery; 77°F (25°C); pH 6.5–7.0; Permeate flow rate for each element may vary +25 / -15%.', ''
+                        ]
+                    ], 'md': '|Specifications|Industrial|Municipal|\n|---|---|---|\n|General Features| | |\n|Permeate Flow Rate|11,
+                    000 GPD (41.6 m^3/day)| |\n|Nominal Salt Rejection|99.7% (Minimum 99.5%)| |\n|Effective Membrane Area|400 ft^2 (37.2 m^2)| |\n|Membrane Type|Thin-Film Composite| |\n|Membrane Material|Polyamide (PA)| |\n|Element Configuration|Spiral-Wound, FRP Wrapping| |\n|Test Conditions|2,
+                    000 mg/L NaCl solution at 225 psig (1.55 MPa) applied pressure; 15% recovery; 77°F (25°C); pH 6.5–7.0; Permeate flow rate for each element may vary +25 / -15%.| |', 'isPerfectTable': True, 'csv': '"Specifications",
+                    "Industrial",
+                    "Municipal"\n"General Features",
+                    "",
+                    ""\n"Permeate Flow Rate",
+                    "11,000 GPD (41.6 m^3/day)",
+                    ""\n"Nominal Salt Rejection",
+                    "99.7% (Minimum 99.5%)",
+                    ""\n"Effective Membrane Area",
+                    "400 ft^2 (37.2 m^2)",
+                    ""\n"Membrane Type",
+                    "Thin-Film Composite",
+                    ""\n"Membrane Material",
+                    "Polyamide (PA)",
+                    ""\n"Element Configuration",
+                    "Spiral-Wound, FRP Wrapping",
+                    ""\n"Test Conditions",
+                    "2,000 mg/L NaCl solution at 225 psig (1.55 MPa) applied pressure; 15% recovery; 77°F (25°C); pH 6.5–7.0; Permeate flow rate for each element may vary +25 / -15%.",
+                    ""'
+                },
+                {'type': 'table', 'rows': [
+                        ['Dimensions and Weight', 'Part Number'
+                        ],
+                        ['Model Name', 'RE8040-BE'
+                        ],
+                        ['A', '40.0 inch (1,
+                            016 mm)'
+                        ],
+                        ['B', '7.9 inch (200 mm)'
+                        ],
+                        ['C', '1.12 inch (28.5 mm)'
+                        ],
+                        ['Weight', '15kg'
+                        ],
+                        ['Inter-Connector', 'SWA01049'
+                        ],
+                        ['Brine Seal', 'SWA01043'
+                        ],
+                        ['', 'U-cup seal (Brine seal)'
+                        ],
+                        ['Feed', ''
+                        ],
+                        ['', '1. Each membrane element supplied with one interconnector (coupler) and four O-rings.'
+                        ],
+                        ['', '2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels.'
+                        ],
+                        ['', 'CSM Permeate Concentrate'
+                        ]
+                    ], 'md': '|Dimensions and Weight|Part Number|\n|---|---|\n|Model Name|RE8040-BE|\n|A|40.0 inch (1,
+                    016 mm)|\n|B|7.9 inch (200 mm)|\n|C|1.12 inch (28.5 mm)|\n|Weight|15kg|\n|Inter-Connector|SWA01049|\n|Brine Seal|SWA01043|\n| |U-cup seal (Brine seal)|\n|Feed| |\n| |1. Each membrane element supplied with one interconnector (coupler) and four O-rings.|\n| |2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels.|\n| |CSM Permeate Concentrate|', 'isPerfectTable': True, 'csv': '"Dimensions and Weight",
+                    "Part Number"\n"Model Name",
+                    "RE8040-BE"\n"A",
+                    "40.0 inch (1,016 mm)"\n"B",
+                    "7.9 inch (200 mm)"\n"C",
+                    "1.12 inch (28.5 mm)"\n"Weight",
+                    "15kg"\n"Inter-Connector",
+                    "SWA01049"\n"Brine Seal",
+                    "SWA01043"\n"",
+                    "U-cup seal (Brine seal)"\n"Feed",
+                    ""\n"",
+                    "1. Each membrane element supplied with one interconnector (coupler) and four O-rings."\n"",
+                    "2. All RE8040 elements fit nominal 8.0 inch (203.2 mm) I.D. pressure vessels."\n"",
+                    "CSM Permeate Concentrate"'
+                }
+            ]
+        },
+        {'page': 2, 'text': ' RE8040-BE\n  High productivity RO element for brackish water\n\n\n APPLICATION DATA\n    Operating Limits\n    Max. Pressure Drop / Element                            
+        15 psi (0.10 MPa)\n    Max. Pressure Drop / 240” Vessel                                60 psi (0.41 MPa)\n    Max. Operating Pressure                                         600 psi (4.14 MPa)\n\n\n    Max. Feed Flow Rate                                             75 gpm (17.0 m     3/hr)\n\n\n    Min. Concentrate Flow Rate                                      16 gpm (3.6 m     3/hr)\n\n\n                       
+                                                 o      o\n    Max. Operating Temperature                 
+                     113 F (45    C)\n    Operating pH Range                                              
+2.0 – 11.0\n    CIP pH Range                                                    1.0 – 13.0\n    Max. Turbidity                                                  1.0 NTU\n    Max. SDI (15 min)                      
+                         5.0\n    Max. Chlorine Concentration                                     < 0.1 mg/L\n\n\nGENERAL HANDLING PROCEDURES\n\n\n    \uf06e Elements contained in the boxes must be kept dry             \uf06e Keep elements moist at all times after initial wetting.\n      at room temperature (7–32°C; 40–95°F) and should\n      not be stored in direct sunlight.                            \uf06e Avoid excessive pressure and flow spikes.\n\n\n    \uf06e For WET-TYPE, the preservative solution (1%                
+  \uf06e Only use chemicals compatible with the membrane\n      sodium metabisulfite solution) is added to prohibit             elements and components. Use of such chemicals\n      the growth of micro-organisms.                                  may void the element limited warranty.\n\n\n    \uf06e Permeate from the first hour of operation should             \uf06e Permeate pressure must always be equal or less than\n      be discarded.                                                   the feed/concentrate pressure. Damage caused by\n                                                                      permeate back pressure voids the element limited\n    \uf06e Stabilized salt rejection is generally achieved within          warranty.\n      1~48 hours of continuous use.                                \uf06e The element shell is FRP(Fiber Reinforced Plastic). Be\n                                                                      aware of glass fiber strands and use safety equipment.\n                                                         
+                                                             NSF\n                                        
+                                                                               Certified to\n             
+                                                                                                       NSF/ANSI/CAN 61\n                                                      LENNTEcH\n                            
+            info@lenntech.com Tel. +31-152-610-900\n                                        www.lenntech.com           Fax. +31-152-616-289', 'md': '# RE8040-BE\n\nHigh productivity RO element for brackish water\n\n# APPLICATION DATA\n\n|Operating Limits|\n|---|\n|Max. Pressure Drop / Element|15 psi (0.10 MPa)|\n|Max. Pressure Drop / 240” Vessel|60 psi (0.41 MPa)|\n|Max. Operating Pressure|600 psi (4.14 MPa)|\n|Max. Feed Flow Rate|75 gpm (17.0 m3/hr)|\n|Min. Concentrate Flow Rate|16 gpm (3.6 m3/hr)|\n|Max. Operating Temperature|113 F (45 C)|\n|Operating pH Range|2.0 – 11.0|\n|CIP pH Range|1.0 – 13.0|\n|Max. Turbidity|1.0 NTU|\n|Max. SDI (15 min)|5.0|\n|Max. Chlorine Concentration|< 0.1 mg/L|\n\n# GENERAL HANDLING PROCEDURES\n\n- Elements contained in the boxes must be kept dry at room temperature (7–32°C; 40–95°F) and should not be stored in direct sunlight.\n- Keep elements moist at all times after initial wetting.\n- Avoid excessive pressure and flow spikes.\n- For WET-TYPE, the preservative solution (1% sodium metabisulfite solution) is added to prohibit the growth of micro-organisms.\n- Only use chemicals compatible with the membrane elements and components. Use of such chemicals may void the element limited warranty.\n- Permeate from the first hour of operation should be discarded.\n- Permeate pressure must always be equal or less than the feed/concentrate pressure. Damage caused by permeate back pressure voids the element limited warranty.\n- Stabilized salt rejection is generally achieved within 1~48 hours of continuous use.\n- The element shell is FRP(Fiber Reinforced Plastic). Be aware of glass fiber strands and use safety equipment.\n\nNSF Certified to NSF/ANSI/CAN 61\n\nLENNTEcH\n\ninfo@lenntech.com Tel. +31-152-610-900\n\nwww.lenntech.com Fax. +31-152-616-289', 'images': [
+                {'name': 'img_p1_1.png', 'height': 56, 'width': 354
+                },
+                {'name': 'img_p1_2.png', 'height': 95, 'width': 83
+                },
+                {'name': 'img_p1_5.png', 'height': 56, 'width': 560
+                },
+                {'name': 'img_p1_6.png', 'height': 95, 'width': 85
+                },
+                {'name': 'img_p1_11.png', 'height': 80, 'width': 79
+                },
+                {'name': 'img_p1_12.png', 'height': 74, 'width': 203
+                }
+            ], 'items': [
+                {'type': 'heading', 'lvl': 1, 'value': 'RE8040-BE', 'md': '# RE8040-BE'
+                },
+                {'type': 'text', 'value': 'High productivity RO element for brackish water', 'md': 'High productivity RO element for brackish water'
+                },
+                {'type': 'heading', 'lvl': 1, 'value': 'APPLICATION DATA', 'md': '# APPLICATION DATA'
+                },
+                {'type': 'table', 'rows': [
+                        ['Operating Limits'
+                        ],
+                        ['Max. Pressure Drop / Element', '15 psi (0.10 MPa)'
+                        ],
+                        ['Max. Pressure Drop / 240” Vessel', '60 psi (0.41 MPa)'
+                        ],
+                        ['Max. Operating Pressure', '600 psi (4.14 MPa)'
+                        ],
+                        ['Max. Feed Flow Rate', '75 gpm (17.0 m3/hr)'
+                        ],
+                        ['Min. Concentrate Flow Rate', '16 gpm (3.6 m3/hr)'
+                        ],
+                        ['Max. Operating Temperature', '113 F (45 C)'
+                        ],
+                        ['Operating pH Range', '2.0 – 11.0'
+                        ],
+                        ['CIP pH Range', '1.0 – 13.0'
+                        ],
+                        ['Max. Turbidity', '1.0 NTU'
+                        ],
+                        ['Max. SDI (15 min)', '5.0'
+                        ],
+                        ['Max. Chlorine Concentration', '< 0.1 mg/L'
+                        ]
+                    ], 'md': '|Operating Limits|\n|---|\n|Max. Pressure Drop / Element|15 psi (0.10 MPa)|\n|Max. Pressure Drop / 240” Vessel|60 psi (0.41 MPa)|\n|Max. Operating Pressure|600 psi (4.14 MPa)|\n|Max. Feed Flow Rate|75 gpm (17.0 m3/hr)|\n|Min. Concentrate Flow Rate|16 gpm (3.6 m3/hr)|\n|Max. Operating Temperature|113 F (45 C)|\n|Operating pH Range|2.0 – 11.0|\n|CIP pH Range|1.0 – 13.0|\n|Max. Turbidity|1.0 NTU|\n|Max. SDI (15 min)|5.0|\n|Max. Chlorine Concentration|< 0.1 mg/L|', 'isPerfectTable': False, 'csv': '"Operating Limits"\n"Max. Pressure Drop / Element",
+                    "15 psi (0.10 MPa)"\n"Max. Pressure Drop / 240” Vessel",
+                    "60 psi (0.41 MPa)"\n"Max. Operating Pressure",
+                    "600 psi (4.14 MPa)"\n"Max. Feed Flow Rate",
+                    "75 gpm (17.0 m3/hr)"\n"Min. Concentrate Flow Rate",
+                    "16 gpm (3.6 m3/hr)"\n"Max. Operating Temperature",
+                    "113 F (45 C)"\n"Operating pH Range",
+                    "2.0 – 11.0"\n"CIP pH Range",
+                    "1.0 – 13.0"\n"Max. Turbidity",
+                    "1.0 NTU"\n"Max. SDI (15 min)",
+                    "5.0"\n"Max. Chlorine Concentration",
+                    "< 0.1 mg/L"'
+                },
+                {'type': 'heading', 'lvl': 1, 'value': 'GENERAL HANDLING PROCEDURES', 'md': '# GENERAL HANDLING PROCEDURES'
+                },
+                {'type': 'text', 'value': '- Elements contained in the boxes must be kept dry at room temperature (7–32°C; 40–95°F) and should not be stored in direct sunlight.\n- Keep elements moist at all times after initial wetting.\n- Avoid excessive pressure and flow spikes.\n- For WET-TYPE, the preservative solution (1% sodium metabisulfite solution) is added to prohibit the growth of micro-organisms.\n- Only use chemicals compatible with the membrane elements and components. Use of such chemicals may void the element limited warranty.\n- Permeate from the first hour of operation should be discarded.\n- Permeate pressure must always be equal or less than the feed/concentrate pressure. Damage caused by permeate back pressure voids the element limited warranty.\n- Stabilized salt rejection is generally achieved within 1~48 hours of continuous use.\n- The element shell is FRP(Fiber Reinforced Plastic). Be aware of glass fiber strands and use safety equipment.\n\nNSF Certified to NSF/ANSI/CAN 61\n\nLENNTEcH\n\ninfo@lenntech.com Tel. +31-152-610-900\n\nwww.lenntech.com Fax. +31-152-616-289', 'md': '- Elements contained in the boxes must be kept dry at room temperature (7–32°C; 40–95°F) and should not be stored in direct sunlight.\n- Keep elements moist at all times after initial wetting.\n- Avoid excessive pressure and flow spikes.\n- For WET-TYPE, the preservative solution (1% sodium metabisulfite solution) is added to prohibit the growth of micro-organisms.\n- Only use chemicals compatible with the membrane elements and components. Use of such chemicals may void the element limited warranty.\n- Permeate from the first hour of operation should be discarded.\n- Permeate pressure must always be equal or less than the feed/concentrate pressure. Damage caused by permeate back pressure voids the element limited warranty.\n- Stabilized salt rejection is generally achieved within 1~48 hours of continuous use.\n- The element shell is FRP(Fiber Reinforced Plastic). Be aware of glass fiber strands and use safety equipment.\n\nNSF Certified to NSF/ANSI/CAN 61\n\nLENNTEcH\n\ninfo@lenntech.com Tel. +31-152-610-900\n\nwww.lenntech.com Fax. +31-152-616-289'
+                }
+            ]
+        }
+    ], 'job_id': '5a1a6172-1221-4f29-bc4e-f4176fc99a6b', 'file_path': './small_sample_pdfs/CSM-RE8040-BE-L.pdf'
+}

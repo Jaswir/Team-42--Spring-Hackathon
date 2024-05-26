@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import os
 from os import environ
 from openai import OpenAI
+import json
 
 import nest_asyncio
 
@@ -23,18 +24,58 @@ MONGO_URI = os.getenv("MONGO_URL")
 LLAMA_CLOUD_API_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
 
 
+def ParsePDFToJSON(file_name):
+    # Parses PDF to Json HTML
+    parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
+    json_objs = parser.get_json_result(f"./temp/{file_name}")
+    json_list = json_objs[0]["pages"]
+
+    print(json_list)
+    return json_list
+
+
+    # Extracts Tables from Json HTML
+    # pattern = re.compile(r"'rows': \[.*?\]")
+    # matches = pattern.findall(str(json_list))
+
+    # print(matches)
 
 # Parses PDF to Json HTML
 parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
-json_objs = parser.get_json_result("./small_sample_pdfs/CSM-RE8040-BE-L.pdf")
-json_list = json_objs[0]["pages"]
+file_name = 'CSM-RE8040-BE440-L.pdf'
+json_objs = parser.get_json_result(f"./temp/{file_name}")
+pages = json_objs[0]["pages"]
+
+items = []
+for page in pages:
+    for key, value in page.items():
+        if key == "items":
+            items.append(value)
+
+rows = []
+for item in items:
+    for subitem in item:
+        for key, value in subitem.items():
+            if key == "rows":
+                rows.append(value[0])
+                print(f"Rows: {rows}" "\n")
 
 
-# Extracts Tables from Json HTML
-pattern = re.compile(r"'rows': \[.*?\]")
-matches = pattern.findall(str(json_list))
+for row in rows:
+    # Convert list of lists to dictionary
+    json_dict = {item[0]: item[1] for item in row}
 
-print(matches)
+    # Convert dictionary to JSON string with indentation for readability
+    json_string = json.dumps(json_dict, indent=4)
+
+    print(json_string)
+
+
+    # print(f"Item: {item}" "\n")
+    # for subitem in item:
+    #     print(f"Subitem: {subitem}" "\n")
+   
+    # print(json_list)
 
 # client = pymongo.MongoClient(MONGO_URI)
 # db = client["spring"]

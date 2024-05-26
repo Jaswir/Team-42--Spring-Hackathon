@@ -3,3 +3,4 @@ pdfplumber
 pandas
 llama-index
 llama-parse
+streamlit
