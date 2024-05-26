@@ -10,12 +10,8 @@ import nest_asyncio
 
 nest_asyncio.apply()
 from llama_parse  import LlamaParse
-from llama_index.core import SimpleDirectoryReader
-from llama_index.core.node_parser import MarkdownElementNodeParser
-from llama_index.core import VectorStoreIndex
-from llama_index.postprocessor.flag_embedding_reranker import (
-    FlagEmbeddingReranker,      
-)
+
+
 import re
 
 load_dotenv()
