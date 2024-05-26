@@ -5,6 +5,19 @@ import random
 
 def main():
 
+    # Custom CSS to increase the height of the input field
+    css = '''
+    <style>
+
+        .stTextArea textarea {
+            height: 300px;
+        }
+    </style>
+    '''
+
+    # Injecting the custom CSS with markdown
+    st.write(css, unsafe_allow_html=True)
+
     st.title("Structured Tables")
 
     question_slot = st.empty()
@@ -15,7 +28,7 @@ def main():
         col1, col2 = st.columns([5, 1])
         with col1:
             question_text = "✋🏿 Ask a question:"
-            question = st.text_input(question_text)
+            question = st.text_area(question_text)
         with col2:
             st.write(" ")
             st.write(" ")
