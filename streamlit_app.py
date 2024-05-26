@@ -32,8 +32,6 @@ def main():
 
     st.title("Structured Tables")
 
-
-
     # File uploader allows user to add file
     uploaded_file = st.file_uploader("Choose a PDF file", type='pdf')
 

@@ -4,3 +4,4 @@ pandas
 llama-index
 llama-parse
 streamlit
+pymongo
