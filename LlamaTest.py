@@ -55,20 +55,56 @@ def ParsePDFTablesToJSON(file_name):
         for subitem in item:
             for key, value in subitem.items():
                 if key == "rows":
+                    print("Row Value: ", value)
                     rows.append(value)
 
     json_result = []
     for row in rows:
+
         json_dict = {}
-        for item in row:
-            if len(item) >= 2:
-                json_dict[item[0]] = item[1]
+        horizontal_table = False
+        horizontal_table = len(row) > 1 and len(row[0]) > 2
+
+        if horizontal_table:
+
+            # Extract column names from the first row
+            columns = row[0]
+            data_list = []
+
+            # Iterate over rows starting from the second row
+            for rowItem in row[1:]:
+                items = {}
+                for i, column in enumerate(columns):
+                    items[column] = rowItem[i]
+                data_list.append(items)
+            json_dict["table"] = data_list
+
+        else:
+            for item in row:
+                if len(item) == 2:
+                    json_dict[item[0]] = item[1]
 
         json_string = json.dumps(json_dict, indent=4)
         json_result.append(json_string)
-        # print("JSON String: ", json_string)
+        print("JSON String: ", json_string)
 
     return json_result
+
+
+ParsePDFTablesToJSON("CSM-RE8040-BE440-L.pdf")
+
+# table = [
+#     ["Model Name", "A", "B", "C", "Weight", "Inter-Connector", "Brine Seal"],
+#     [
+#         "RE8040-BE440",
+#         "40.0 inch (1,016 mm)",
+#         "7.9 inch (200 mm)",
+#         "1.12 inch (28.5 mm)",
+#         "15kg",
+#         "SWA01049",
+#         "SWA01043",
+#     ],
+# ]
 
 
 # client = pymongo.MongoClient(MONGO_URI)
