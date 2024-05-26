@@ -5,19 +5,19 @@ import os
 from os import environ
 from openai import OpenAI
 import json
-
 import nest_asyncio
+import streamlit as st
 
 nest_asyncio.apply()
-from llama_parse  import LlamaParse
+from llama_parse import LlamaParse
 
 
 import re
 
 load_dotenv()
-OPENAI_API_KEY = environ.get("OPENAI_API_KEY")
-MONGO_URI = os.getenv("MONGO_URL")
-LLAMA_CLOUD_API_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
+OpenAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+MONGO_URI = st.secrets["MONGO_URL"]
+LLAMA_CLOUD_API_KEY = st.secrets["LLAMA_CLOUD_API_KEY"]
 
 
 def ParsePDFToJSON(file_name):
@@ -29,18 +29,18 @@ def ParsePDFToJSON(file_name):
     print(json_list)
     return json_list
 
-
     # Extracts Tables from Json HTML
     # pattern = re.compile(r"'rows': \[.*?\]")
     # matches = pattern.findall(str(json_list))
 
     # print(matches)
 
+
 def ParsePDFTablesToJSON(file_name):
 
     # Parses PDF to Json HTML
     parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
-    file_name = 'CSM-RE8040-BE440-L.pdf'
+    file_name = "CSM-RE8040-BE440-L.pdf"
     json_objs = parser.get_json_result(f"./temp/{file_name}")
     pages = json_objs[0]["pages"]
 
@@ -57,9 +57,7 @@ def ParsePDFTablesToJSON(file_name):
                 if key == "rows":
                     rows.append(value)
 
-
-
-    json_result =[]
+    json_result = []
     for row in rows:
         json_dict = {}
         for item in row:
@@ -71,6 +69,7 @@ def ParsePDFTablesToJSON(file_name):
         # print("JSON String: ", json_string)
 
     return json_result
+
 
 # client = pymongo.MongoClient(MONGO_URI)
 # db = client["spring"]
@@ -88,8 +87,6 @@ def ParsePDFTablesToJSON(file_name):
 # ).load_data()
 
 # print(documents[0].text[:1000] + "...")
-
-
 
 
 # # Converts markdown to nodes
