@@ -15,6 +15,7 @@ from llama_index.core import VectorStoreIndex
 from llama_index.postprocessor.flag_embedding_reranker import (
     FlagEmbeddingReranker,      
 )
+import re
 
 load_dotenv()
 OPENAI_API_KEY = environ.get("OPENAI_API_KEY")
@@ -22,16 +23,23 @@ MONGO_URI = os.getenv("MONGO_URL")
 LLAMA_CLOUD_API_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
 
 
-# client = pymongo.MongoClient(MONGO_URI)
-# db = client["spring"]
-# collection = db["records"]
-# collection.delete_many({})
 
+# Parses PDF to Json HTML
 parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
 json_objs = parser.get_json_result("./small_sample_pdfs/CSM-RE8040-BE-L.pdf")
 json_list = json_objs[0]["pages"]
 
-print(json_list)
+
+# Extracts Tables from Json HTML
+pattern = re.compile(r"'rows': \[.*?\]")
+matches = pattern.findall(str(json_list))
+
+print(matches)
+
+# client = pymongo.MongoClient(MONGO_URI)
+# db = client["spring"]
+# collection = db["records"]
+# collection.delete_many({})
 
 # parser = LlamaParse(
 #     api_key=LLAMA_CLOUD_API_KEY, result_type="markdown", num_workers=4, verbose=True
