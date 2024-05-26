@@ -72,7 +72,7 @@ def main():
     # Check if the form has been submitted
     if submit_button:
         if uploaded_file is not None:
-            answer = LlamaTest.ParsePDFToJSON(uploaded_file.name)
+            answer = LlamaTest.ParsePDFTablesToJSON(uploaded_file.name)
             st.write('answer:', answer)
         else:
             st.warning("Please upload a file")

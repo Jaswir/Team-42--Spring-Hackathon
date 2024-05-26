@@ -40,42 +40,41 @@ def ParsePDFToJSON(file_name):
 
     # print(matches)
 
-# Parses PDF to Json HTML
-parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
-file_name = 'CSM-RE8040-BE440-L.pdf'
-json_objs = parser.get_json_result(f"./temp/{file_name}")
-pages = json_objs[0]["pages"]
+def ParsePDFTablesToJSON(file_name):
 
-items = []
-for page in pages:
-    for key, value in page.items():
-        if key == "items":
-            items.append(value)
+    # Parses PDF to Json HTML
+    parser = LlamaParse(verbose=True, api_key=LLAMA_CLOUD_API_KEY)
+    file_name = 'CSM-RE8040-BE440-L.pdf'
+    json_objs = parser.get_json_result(f"./temp/{file_name}")
+    pages = json_objs[0]["pages"]
 
-rows = []
-for item in items:
-    for subitem in item:
-        for key, value in subitem.items():
-            if key == "rows":
-                rows.append(value[0])
-                print(f"Rows: {rows}" "\n")
+    items = []
+    for page in pages:
+        for key, value in page.items():
+            if key == "items":
+                items.append(value)
 
-
-for row in rows:
-    # Convert list of lists to dictionary
-    json_dict = {item[0]: item[1] for item in row}
-
-    # Convert dictionary to JSON string with indentation for readability
-    json_string = json.dumps(json_dict, indent=4)
-
-    print(json_string)
+    rows = []
+    for item in items:
+        for subitem in item:
+            for key, value in subitem.items():
+                if key == "rows":
+                    rows.append(value)
 
 
-    # print(f"Item: {item}" "\n")
-    # for subitem in item:
-    #     print(f"Subitem: {subitem}" "\n")
-   
-    # print(json_list)
+
+    json_result =[]
+    for row in rows:
+        json_dict = {}
+        for item in row:
+            if len(item) >= 2:
+                json_dict[item[0]] = item[1]
+
+        json_string = json.dumps(json_dict, indent=4)
+        json_result.append(json_string)
+        # print("JSON String: ", json_string)
+
+    return json_result
 
 # client = pymongo.MongoClient(MONGO_URI)
 # db = client["spring"]
